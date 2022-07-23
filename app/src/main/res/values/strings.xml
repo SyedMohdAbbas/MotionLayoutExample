@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="activity_4_title">I AM BATMAN</string>
+    <string name="activity_4_tagline">IM VEANGENCE</string>
+    <string name="acitivit_4_para_1" translatable="false"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur assumenda deserunt est, fugit illum ipsum laudantium, libero, mollitia nihil quam quis velit voluptatem voluptatum. Dignissimos distinctio dolor dolorem in maxime molestiae vel. Beatae blanditiis cumque cupiditate debitis deserunt dolor ea error exercitationem fugiat ipsam laboriosam laborum laudantium minima minus modi necessitatibus obcaecati, officiis omnis optio quas quasi quia quibusdam sed ut vel veritatis voluptate voluptatum. Autem molestiae odit omnis qui quibusdam, rem velit voluptatem voluptatibus. Asperiores aut blanditiis corporis cum delectus enim et eum ex impedit ipsa, laboriosam maiores modi molestiae nesciunt officiis quia quos, reiciendis sed suscipit velit vitae.]]></string>
+
+</resources>
